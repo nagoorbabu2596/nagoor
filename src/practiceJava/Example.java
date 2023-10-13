@@ -76,9 +76,9 @@ public class Example {
 		if (f.exists()) {
 			System.out.println("File Found");
 		} else {
-			System.out.println("File didn't Found");
+			System.out.println("");
 		}
-
+//
 		driver.switchTo().defaultContent();
 //		driver.close();
 //		driver.quit();
