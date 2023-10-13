@@ -81,6 +81,6 @@ public class Example {
 
 		driver.switchTo().defaultContent();
 //		driver.close();
-		driver.quit();
+//		driver.quit();
 	}
 }
