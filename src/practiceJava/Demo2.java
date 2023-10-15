@@ -6,12 +6,15 @@ public class Demo2 {
 		// TODO Auto-generated method stub
 		System.out.println("New thing my things");
 <<<<<<< HEAD
+<<<<<<< HEAD
 		
 =======
 		System.out.println("added code");
 		System.out.println("king is back");
 		System.out.println("new");
 >>>>>>> 129f8a082a93e9696ae0e020f48ff33ebdd39e1c
+=======
+>>>>>>> 38695e6538c23df26fb2e594a2be7535884bc770
 	}
 
 }
