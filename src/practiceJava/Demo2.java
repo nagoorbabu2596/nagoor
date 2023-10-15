@@ -7,6 +7,7 @@ public class Demo2 {
 		System.out.println("New thing my things");
 		System.out.println("added code");
 		System.out.println("king is back");
+		System.out.println("new");
 	}
 
 }
